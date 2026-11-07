@@ -3,7 +3,7 @@
     "Author": "SomV",
     "Name": "Inventory Cleaner",
     "InternalName": "PluginTest",
-    "AssemblyVersion": "0.10.13.2",
+    "AssemblyVersion": "0.10.13.3",
     "Description": "Sort marketable inventory items, check prices, and list one batch per click through a retainer. Use /inventorycleaner to open.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,8 +18,8 @@
     "Punchline": "Inspect marketable items in your inventory.",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/SomV-FF/inventory-cleaner-release",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/SomV-FF/inventory-cleaner-release/main/packages/InventoryCleaner-v0.10.13.2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SomV-FF/inventory-cleaner-release/main/packages/InventoryCleaner-v0.10.13.2.zip",
-    "LastUpdate": 1794052310
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SomV-FF/inventory-cleaner-release/main/packages/InventoryCleaner-v0.10.13.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SomV-FF/inventory-cleaner-release/main/packages/InventoryCleaner-v0.10.13.3.zip",
+    "LastUpdate": 1794052535
   }
 ]
